@@ -2,5 +2,5 @@
  * test
  */
 (function(){
-alert('Injected');
+console.log('Injected');
 })();
